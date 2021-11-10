@@ -12,7 +12,7 @@ Check the demo below, then practice Markdown in your browser using [Dillinger](h
 
 Any text with no empty lines between will become a paragraph.
 Leave an empty line between headings and paragraphs.
-[Note from JB: this is problematic in GitLab, must dig into why]
+  - Note from JB: this is problematic in GitLab, must dig into why.
 Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
 
